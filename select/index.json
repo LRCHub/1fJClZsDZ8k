@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "エピソード",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-22T04:22:26.140206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エピソード",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_エピソード_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エピソード",
+      "artist": "Sui",
+      "has_synced": true,
+      "path": "select/02_エピソード_Sui.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "05_エピソード",
+      "artist": "ぬまぬま",
+      "has_synced": true,
+      "path": "select/03_05_エピソード_ぬまぬま.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "04_エピソード：美術館デート",
+      "artist": "ぬまぬま",
+      "has_synced": true,
+      "path": "select/04_04_エピソード_美術館デート_ぬまぬま.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "06_エピソード：学校に呼び出され",
+      "artist": "ぬまぬま",
+      "has_synced": true,
+      "path": "select/05_06_エピソード_学校に呼び出され_ぬまぬま.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エピソード",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_エピソード_星野源.txt"
+    }
+  ]
+}
